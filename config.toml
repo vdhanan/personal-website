@@ -1,0 +1,87 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hello-friend-ng"
+
+rssLimit  = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Home to Varun's thoughts and work"
+  keywords = "homepage, blog, science, informatics, development, programming"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  [params.logo]
+    logoText     = "$ cd /home/"
+    logoHomeLink = "/"
+
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/varundhananjaya"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:varun.dhananjaya@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/vdhanan"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/varundhananjaya"
+
+
+[languages]
+  [languages.en]
+    title = "Varun Dhananjaya"
+    subtitle = "UwU"
+    keywords = ""
+    copyright = ""
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "varun dhananjaya"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+	# You can create a language based menu
+    # [languages.en.menu]
+    #   [[languages.en.menu.main]]
+    #     identifier = "about"
+    #     name = "About"
+    #     url = "/about"
+    #   [[languages.en.menu.main]]
+    #     identifier = "projects"
+    #     name = "Projects"
+    #     url = "/projects"
+
+
+# And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects"
