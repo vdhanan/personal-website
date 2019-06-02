@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://vdhanan.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Varun's Website"
 theme = "hello-friend-ng"
 
 rssLimit  = 10
