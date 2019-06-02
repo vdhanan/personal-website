@@ -2,6 +2,7 @@ baseURL = "https://vdhanan.github.io/"
 languageCode = "en-us"
 title = "Varun's Website"
 theme = "hello-friend-ng"
+publishDir = "docs"
 
 rssLimit  = 10
 
