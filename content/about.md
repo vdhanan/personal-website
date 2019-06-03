@@ -12,6 +12,6 @@ I like to play chess, poker, and basketball. Feel free to add [me] (https://www.
 
 I also like to read... everything from graphic novels to personal essays.
 
-I write some of my musings about tech, film, and other miscellaneous topics on my [blog] (http://localhost:1313/posts).
+I write some of my musings about tech, film, and other miscellaneous topics on my [blog] (https://vdhanan.github.io/posts).
 
-Here's my [résumé] (http://localhost:1313/varun_resume.pdf).
+Here's my [résumé] (https://vdhanan.github.io/varun_resume.pdf).
