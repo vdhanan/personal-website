@@ -6,7 +6,7 @@ draft: false
 
 I am a recent graduate of Claremont McKenna College, where I majored in Computer Science (through neighboring Pomona College).
 
-I am curious, competitive, and hard-working.
+I am curious, outgoing, and hard-working.
 
 I like to play chess, poker, and basketball. Feel free to add [me] (https://www.chess.com/member/dhaniv) on chess.com if you play.
 
