@@ -5,6 +5,8 @@ theme = "hello-friend-ng"
 
 rssLimit  = 10
 
+googleAnalytics = "UA-142537478-1"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -46,7 +48,7 @@ rssLimit  = 10
 [languages]
   [languages.en]
     title = "Varun Dhananjaya"
-    subtitle = "UwU"
+    subtitle = ""
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
